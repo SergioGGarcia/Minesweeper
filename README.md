@@ -1,7 +1,7 @@
 # Minesweeper
 Minesweeper game developed with JavaScript. I developed it when I was at the DAW's higher degree training cycle
 
-[![Captura-de-pantalla-5.png](https://i.postimg.cc/PrnhDKkR/Captura-de-pantalla-5.png)](https://postimg.cc/Cd7WTG5G)
+<p align="center"><img src="https://i.postimg.cc/BZrDKWbf/Captura-de-pantalla-5.png"></p>
 
 # Author
 Sergio García García
